@@ -1,6 +1,6 @@
 # 💼 Job Tracker – Personal Job Application Manager
 
-🌐 Live Demo: https://web-job-tracker.netlify.app/dashboard
+🌐 Live Demo: https://web-job-tracker.netlify.app/
 
 ---
 
